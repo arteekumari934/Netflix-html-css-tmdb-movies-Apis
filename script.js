@@ -1,4 +1,4 @@
-const api_key="6c33190ca0e7129e0ea251db108d4c27";
+const api_key="6c33190ca0e7129e0ea251db108d4m527";
 
 const ImageBaseUrl = `https://image.tmdb.org/t/p/w200`
 
