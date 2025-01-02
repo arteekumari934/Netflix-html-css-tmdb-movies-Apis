@@ -1,6 +1,6 @@
-const api_key="api_key";
+const api_key=" your_api_key";
 
-//const ImageBaseUrl = `https://image.tmdb.org/t/p/w200`
+// const ImageBaseUrl = `https://image.tmdb.org/t/p/w200`
 
 fetch(`https://api.themoviedb.org/3/movie/popular?api_key=${api_key}`)
 .then(response=>response.json())
