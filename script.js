@@ -1,6 +1,6 @@
-const api_key="6c33190ca0e7129e0ea251db108d4m527";
+const api_key="api_key";
 
-const ImageBaseUrl = `https://image.tmdb.org/t/p/w200`
+//const ImageBaseUrl = `https://image.tmdb.org/t/p/w200`
 
 fetch(`https://api.themoviedb.org/3/movie/popular?api_key=${api_key}`)
 .then(response=>response.json())
