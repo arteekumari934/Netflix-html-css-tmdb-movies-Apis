@@ -1,9 +1,9 @@
 ![Capture45](https://github.com/user-attachments/assets/cc89855c-a3ca-4a73-96cb-027d7951d3af)
-![movie api load](https://github.com/user-attachments/assets/3cb80d23-c5e1-4d34-a349-23f16a7263ab)
+![Capture2](https://github.com/user-attachments/assets/3b3daeeb-6431-4ed0-9e2f-b7ad87599c6c)
 ![Capture3](https://github.com/user-attachments/assets/219bdb00-4cf9-43c4-a574-b36ac073cb3c)
 ![Capture4](https://github.com/user-attachments/assets/010aeed9-03f6-444c-8740-3e475b35b34f)
 ![Capture5](https://github.com/user-attachments/assets/415f4f1f-9297-4321-a483-9cf4773ba746)
-![Capture2](https://github.com/user-attachments/assets/3b3daeeb-6431-4ed0-9e2f-b7ad87599c6c)
+
 # Netflix UI Clone
 
 This project is a **UI replica of Netflix** designed for educational and demonstration purposes. It includes essential components of the Netflix landing page, such as a trending section, FAQ, and footer, along with dynamic movie data fetched using the TMDB API.
