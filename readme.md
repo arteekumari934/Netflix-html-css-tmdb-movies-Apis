@@ -47,4 +47,4 @@ This project is a **UI replica of Netflix** designed for educational and demonst
 1. Clone the repository:
    ```bash
    git clone https://github.com/arteekumari934/Netflix-html-css-tmdb-movies-Apis.git
-   cd netflix-ui-clone
+   cd Netflix-html-css-tmdb-movies-Apis
