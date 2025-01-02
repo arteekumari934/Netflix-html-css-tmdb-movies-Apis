@@ -1,4 +1,4 @@
-![Capture](https://github.com/user-attachments/assets/c0995eee-e458-40a7-940b-2047a0444032)
+![Capture45](https://github.com/user-attachments/assets/cc89855c-a3ca-4a73-96cb-027d7951d3af)
 ![movie api load](https://github.com/user-attachments/assets/3cb80d23-c5e1-4d34-a349-23f16a7263ab)
 ![Capture3](https://github.com/user-attachments/assets/219bdb00-4cf9-43c4-a574-b36ac073cb3c)
 ![Capture4](https://github.com/user-attachments/assets/010aeed9-03f6-444c-8740-3e475b35b34f)
@@ -33,6 +33,7 @@ This project is a **UI replica of Netflix** designed for educational and demonst
 
 - **HTML5**
 - **CSS3**
+
 - **JavaScript**
 - [TMDB API](https://www.themoviedb.org/documentation/api)
 
